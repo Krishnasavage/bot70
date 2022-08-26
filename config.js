@@ -6,7 +6,7 @@ global.prems = []
 //=============『 Info Owner 』============== //
 global.nameowner = 'KinaKun'
 global.numberowner = '6287892711054'
-global.instagram = 'gapunya
+global.instagram = 'gapunya'
 global.github = 'https://github.com/Krishnasavage'
 global.dana = '085792482210'
 global.pulsa = '085792482210'
