@@ -524,7 +524,11 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
                displayText: 'Owner',
                id: '.owner',
              }
-
+ { 
+quickReplyButton: {
+displayText: 'Speed',
+id: '.ping',
+}
            },
                {
              quickReplyButton: {
