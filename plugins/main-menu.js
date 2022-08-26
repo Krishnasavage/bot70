@@ -533,6 +533,13 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
              }
 
            },
+
+         {    quickReplyButton: {
+               displayText: 'Gaguna🥶',
+               id: '.owner',
+             }
+
+           },
            {
              quickReplyButton: {
                displayText: 'Credits',
